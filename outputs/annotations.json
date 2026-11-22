@@ -1,0 +1,278 @@
+{
+  "image_name": "Img2.jpg",
+  "image_width": 1024,
+  "image_height": 682,
+  "scene_description": "The image contains 18 annotated objects: 6 persons, 8 cars, 2 bicycles, 1 traffic light, 1 backpack. Approximate positions: Person 1 is in the right area; Person 2 is in the center area; Car 1 is in the right area; Bicycle 1 is in the bottom-left area; Car 2 is in the left area; Person 3 is in the center area; Traffic Light 1 is in the top-right area; Person 4 is in the center area; Person 5 is in the right area; Car 3 is in the right area; Car 4 is in the center area; Backpack 1 is in the left area; Car 5 is in the left area; Bicycle 2 is in the center area; Person 6 is in the center area; Car 6 is in the center area; Car 7 is in the center area; Car 8 is in the center area.",
+  "objects": [
+    {
+      "id": "bab32d70a76b",
+      "label": "Person 1",
+      "class_name": "person",
+      "confidence": 0.9023104310035706,
+      "bbox": [
+        706,
+        232,
+        867,
+        623
+      ],
+      "description": "Person 1 is a person. It is located in the right area of the image. Its bounding box covers a medium portion of the image. Nearby annotated objects include Person 5, Car 1, Person 4.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "0bfa514ec599",
+      "label": "Person 2",
+      "class_name": "person",
+      "confidence": 0.7786411046981812,
+      "bbox": [
+        525,
+        223,
+        604,
+        381
+      ],
+      "description": "Person 2 is a person. It is located in the center area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Person 6, Bicycle 2, Car 4.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "293293adb4e8",
+      "label": "Car 1",
+      "class_name": "car",
+      "confidence": 0.7695427536964417,
+      "bbox": [
+        833,
+        250,
+        1023,
+        406
+      ],
+      "description": "Car 1 is a car. It is located in the right area of the image. Its bounding box covers a medium portion of the image. Nearby annotated objects include Car 3, Person 1, Person 5.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "119df92ed13a",
+      "label": "Bicycle 1",
+      "class_name": "bicycle",
+      "confidence": 0.687538206577301,
+      "bbox": [
+        262,
+        405,
+        402,
+        619
+      ],
+      "description": "Bicycle 1 is a bicycle. It is located in the bottom-left area of the image. Its bounding box covers a medium portion of the image. Nearby annotated objects include Person 3, Backpack 1, Car 6.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "b1ff54b0ef19",
+      "label": "Car 2",
+      "class_name": "car",
+      "confidence": 0.6839872002601624,
+      "bbox": [
+        0,
+        225,
+        294,
+        452
+      ],
+      "description": "Car 2 is a car. It is located in the left area of the image. Its bounding box covers a medium portion of the image. Nearby annotated objects include Car 5, Backpack 1, Person 3.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "77867b224e49",
+      "label": "Person 3",
+      "class_name": "person",
+      "confidence": 0.6463462710380554,
+      "bbox": [
+        285,
+        207,
+        399,
+        541
+      ],
+      "description": "Person 3 is a person. It is located in the center area of the image. Its bounding box covers a medium portion of the image. Nearby annotated objects include Car 6, Backpack 1, Car 7.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "1e176272e887",
+      "label": "Traffic Light 1",
+      "class_name": "traffic light",
+      "confidence": 0.5923587679862976,
+      "bbox": [
+        818,
+        28,
+        847,
+        96
+      ],
+      "description": "Traffic Light 1 is a traffic light. It is located in the top-right area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Person 5.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "ec1199bcf55a",
+      "label": "Person 4",
+      "class_name": "person",
+      "confidence": 0.5828088521957397,
+      "bbox": [
+        638,
+        248,
+        672,
+        347
+      ],
+      "description": "Person 4 is a person. It is located in the center area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Person 5, Person 2, Bicycle 2.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "3c339591dc71",
+      "label": "Person 5",
+      "class_name": "person",
+      "confidence": 0.5636966228485107,
+      "bbox": [
+        699,
+        251,
+        728,
+        346
+      ],
+      "description": "Person 5 is a person. It is located in the right area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Person 4, Person 1, Person 2.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "e26de75672a8",
+      "label": "Car 3",
+      "class_name": "car",
+      "confidence": 0.4680200517177582,
+      "bbox": [
+        969,
+        263,
+        1024,
+        474
+      ],
+      "description": "Car 3 is a car. It is located in the right area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Car 1, Person 1.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "5d1707ef164a",
+      "label": "Car 4",
+      "class_name": "car",
+      "confidence": 0.4597814679145813,
+      "bbox": [
+        468,
+        254,
+        512,
+        287
+      ],
+      "description": "Car 4 is a car. It is located in the center area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Person 6, Car 8, Person 2.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "5108301e350e",
+      "label": "Backpack 1",
+      "class_name": "backpack",
+      "confidence": 0.44352179765701294,
+      "bbox": [
+        228,
+        310,
+        339,
+        420
+      ],
+      "description": "Backpack 1 is a backpack. It is located in the left area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Person 3, Car 6, Car 5.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "daed33180c4e",
+      "label": "Car 5",
+      "class_name": "car",
+      "confidence": 0.43304070830345154,
+      "bbox": [
+        186,
+        238,
+        333,
+        294
+      ],
+      "description": "Car 5 is a car. It is located in the left area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Backpack 1, Car 6, Car 2.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "882ff0b3f73a",
+      "label": "Bicycle 2",
+      "class_name": "bicycle",
+      "confidence": 0.38855165243148804,
+      "bbox": [
+        533,
+        291,
+        584,
+        426
+      ],
+      "description": "Bicycle 2 is a bicycle. It is located in the center area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Person 2, Person 6, Car 4.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "f321b1ec018b",
+      "label": "Person 6",
+      "class_name": "person",
+      "confidence": 0.3431694209575653,
+      "bbox": [
+        518,
+        227,
+        557,
+        294
+      ],
+      "description": "Person 6 is a person. It is located in the center area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Car 4, Person 2, Bicycle 2.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "629fd689e3f6",
+      "label": "Car 6",
+      "class_name": "car",
+      "confidence": 0.29332205653190613,
+      "bbox": [
+        274,
+        273,
+        464,
+        376
+      ],
+      "description": "Car 6 is a car. It is located in the center area of the image. Its bounding box covers a medium portion of the image. Nearby annotated objects include Car 7, Person 3, Car 8.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "abe8e2ca17d2",
+      "label": "Car 7",
+      "class_name": "car",
+      "confidence": 0.28545209765434265,
+      "bbox": [
+        370,
+        274,
+        465,
+        370
+      ],
+      "description": "Car 7 is a car. It is located in the center area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Car 6, Car 8, Car 4.",
+      "description_source": "generated",
+      "source": "YOLO"
+    },
+    {
+      "id": "ffa7b2b76a57",
+      "label": "Car 8",
+      "class_name": "car",
+      "confidence": 0.20586921274662018,
+      "bbox": [
+        420,
+        260,
+        450,
+        286
+      ],
+      "description": "Car 8 is a car. It is located in the center area of the image. Its bounding box covers a small portion of the image. Nearby annotated objects include Car 7, Car 4, Car 6.",
+      "description_source": "generated",
+      "source": "YOLO"
+    }
+  ]
+}
